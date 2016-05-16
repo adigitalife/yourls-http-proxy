@@ -3,7 +3,7 @@ This plugin adds HTTP proxy support for YOURLS.  This is particularly useful whe
 
 ####Instructions:
 
-1. Copy the 'case-insensitive' folder to user/plugins/.
+1. Copy the 'http-proxy' folder to user/plugins/.
 2. Enter the proxy server in the following line of plugin.php and save:
     * `$proxy = 'http://PROXY_SERVER:PORT/';  // Define your proxy server here`
 3. Activate the plugin in the YOURLS admin interface.
